@@ -1,18 +1,22 @@
-# Hi I'm Enzo Monteleone, and Avid Linux Nerd studying Computer Engineering.
-
-## I like many Linux Nerds have tried Tons of Different Distros, but My Top 3 are.
-1. Fedora
-2. Arch
-3. Debian
+# Hi I'm Enzo Monteleone, and Avid Linux Nerd studying Computer Engineering.💽🐧
    
-- My first Encounter with Linux was through Raspberry Pi OS, RetroBox, and Batocera. I enjoyed creating retrogame consoles but didn't want to touch the underbody.
+- I enjoy working on Computers, building new projects, and most importantly, messing with Linux.
+- My first Encounter with Linux was through Raspberry Pi OS on my Pi3b+🥧
+   - I messed with Retropie and Batocera, but didn't even know it was Linux.
+   - I got an NES case for it and played games with my siblings all summer.
+  
 - I truly got into Linux after receiving the steam deck for Christmas of 2023 and have loved it ever since.
+- I distrohopped from Popos, to Fedora, to LinuxMint, to Arch, and then finally Nixos.
 - I currently run Fedora and Nixos on my devices with Hyprland and Noctaila.
-- 
-## I can't to start posting some exciting project including my fork of Cedarlogic(currently v3.06 on my other account.) 
-## I've rebuilt it to use QT6, a much faster modern frontend over wxwidgets.
 
-## Until then thanks for stopping by.
+## Out of all the ones I've tried here is My Top 3.
+1. Fedora(A good mix between reliable and bleeding edge)👍
+2. Arch(including Endeavoros and CachyOS)(Most customizable)💪
+3. Debian(Most stable distro)🛠️
+
+## I can't wait to start posting some exciting project including my fork of Cedarlogic with a complete overall.
+
+## Until then thanks for stopping by.🫠
 
 
    
